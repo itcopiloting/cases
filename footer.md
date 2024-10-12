@@ -1,1 +1,1 @@
-[markdown-pages.js](.)
+[linkedin](.) [itcopilot.ing](https://itcopilot.ing) 
